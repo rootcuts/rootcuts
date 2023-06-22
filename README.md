@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **my skills gorwth**
+- 🔭 I’m currently working on **my skills growth**
 
 - 🌱 I’m currently learning **Java, Sring Boot and PostgreSQL**
 
