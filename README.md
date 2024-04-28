@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm H A C K V N D O</h1>
+<h1 align="center">Hi 👋, I'm S E C V R V S</h1>
 <h3 align="center">A passionate pentester from Argentina</h3>
 
 - 🔭 I’m currently working on **my growth**
 
-- 🌱 I’m currently learning **ethical hacking skills**
+- 🌱 I’m currently learning **SOC analyst & ethical hacking skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
