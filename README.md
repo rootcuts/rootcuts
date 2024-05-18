@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate cybersec and cloud guy from Argentina</h3>
+<h3 align="center">I'm a passionate cybersec and cloud guy from Argentina</h3>
 
 - 🔭 I’m currently working on **my growth**
 
-- 🌱 I’m currently learning **Cyber defense, hacking and Cloud**
+- 🌱 I’m currently learning **cybersec analyst, hacking and cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
