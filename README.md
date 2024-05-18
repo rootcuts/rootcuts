@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm secvrvs</h1>
-<h3 align="center">A passionate cybersec guy from Argentina</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">A passionate cybersec and cloud guy from Argentina</h3>
 
 - 🔭 I’m currently working on **my growth**
 
-- 🌱 I’m currently learning **SOC analyst & ethical hacking skills**
+- 🌱 I’m currently learning **Cyber defense, hacking and Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
