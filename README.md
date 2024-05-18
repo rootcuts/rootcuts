@@ -1,85 +1,39 @@
-<h1 align="center">Hi 👋, I'm Facundo Tiede</h1>
-<h3 align="center">A passionate guy for cloud and cybersecurity from India</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 🔭 I’m currently working on **my growth**
+###
 
-- 🌱 I’m currently learning **cloud**
+<p align="left">My name is Facundo Tiede and I'm a passionate guy for cloud and cybersecurity, from Argentina</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p
- align="left">
-        <a href="https://aws.amazon.com" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
- alt="aws" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.gnu.org/software/bash/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
-alt="bash" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.docker.com/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
- alt="docker" width="40" height="40"/>
-        </a>
-         
-        <a href="https://git-scm.com/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-alt="git" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.java.com" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
- alt="java" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.linux.org/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
- alt="linux" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.mysql.com/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
- alt="mysql" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.postgresql.org" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
- alt="postgresql" width="40" height="40"/>
-        </a>
-         
-        <a href="https://www.python.org" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
- alt="python" width="40" height="40"/>
-        </a>
-         
-        <a href="https://spring.io/" target="_blank" 
-rel="noreferrer">
-          <img 
-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
-alt="spring" width="40" height="40"/>
-        </a>
-        </p>
+<h2 align="left">About me</h2>
 
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning cloud / aws<br>🎯 Goals: Increase my skills to be able to dedicate myself to the cloud security part<br>🎲 Fun fact: FACT it is the abbreviation of my name haha!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
+
+###
