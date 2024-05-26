@@ -1,4 +1,4 @@
-<img src="https://www.imghippo.com/i/emLzi1716758416.png" alt="Banner" style="max-width: 600px;">
+<img src="https://www.imghippo.com/i/emLzi1716758416.png" alt="Banner" style="max-width: 100%;">
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
