@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Facundo Tiede and I'm a passionate guy for cloud and cybersecurity, from Argentina</p>
+<p align="left">My name is Facundo Tiede and I'm a passionate guy for backend, cloud and cybersecurity, from Argentina</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning cloud / aws<br>🎯 Goals: Increase my skills to be able to dedicate myself to the cloud security part<br>🎲 Fun fact: FACT it is the abbreviation of my name haha!</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning cloud / aws<br>🎯 Goals: Increase my skills to be able to dedicate myself to the cloud security part<br>🎲 Fun fact: FACT it is the abbreviation of my name haha!</p>
 
 ###
 
