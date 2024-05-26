@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/d74bnBp/nombre-de-tu-imagen.jpg" alt="Texto alternativo" width="100%">
+<img src="https://i.ibb.co/d74bnBp/nombre-de-tu-imagen.jpg" alt="Texto alternativo" style="max-width: 600px;">
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
