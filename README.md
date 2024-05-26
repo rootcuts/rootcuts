@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co/d74bnBp/nombre-de-tu-imagen.jpg)
+<img src="https://i.ibb.co/d74bnBp/nombre-de-tu-imagen.jpg" alt="Texto alternativo" width="100%">
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
