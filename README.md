@@ -1,4 +1,4 @@
-<img src="https://www.imghippo.com/i/emLzi1716758416.png" alt="Banner" style="max-width: 100%;">
+[![4.png](https://i.postimg.cc/yYHgRVVT/4.png)](https://postimg.cc/z3xGZYHL)
 
 
 <h1 align="left">Hey 👋 What's up?</h1>
