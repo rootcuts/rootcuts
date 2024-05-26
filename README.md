@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning backend / cloud <br>🎯 Goals: Increase my skills to be able to dedicate myself to the cloud security part<br>🎲 Fun fact: FACT it is the abbreviation of my name haha!</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning backend / cloud (aws) <br>🎯 Goals: Increase my skills to be able to dedicate myself to the cloud security part<br>🎲 Fun fact: FACT it is the abbreviation of my name haha!</p>
 
 ###
 
