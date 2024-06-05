@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Facundo Tiede and I'm a passionate guy for backend, cloud and cybersecurity, from Argentina</p>
+<p align="left">My name is Facundo Tiede and I'm a passionate guy for new tecnologies (front && back), cloud and cybersecurity, from Argentina</p>
 
 ###
 
