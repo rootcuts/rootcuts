@@ -1,10 +1,8 @@
 [![6.png](https://i.postimg.cc/Hx8QWC4q/6.png)](https://postimg.cc/jwKWvm1c)
 
-<h1 align="center">Hey there! Welcome to my profile 👋🏻</h1>
-
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
@@ -26,7 +24,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
