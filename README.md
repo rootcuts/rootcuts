@@ -5,7 +5,50 @@
 
 ###
 
-<p align="left">My name is Facundo Tiede and I'm a passionate guy for new tecnologies (front && back), cloud and cybersecurity, from Argentina</p>
+<p align="left">🇪🇸 ES: Apasionado por la naturaleza, la 
+tecnología y el universo, creo firmemente en la interconexión de todas 
+las cosas y en el potencial transformador de la tecnología para el bien 
+común. Con experiencia en el desarrollo fullstack, he decidido enfocar 
+mi carrera en el desarrollo frontend, donde puedo combinar mi 
+creatividad con mis habilidades técnicas para crear experiencias web 
+innovadoras y atractivas.
+
+He completado diversos cursos de 
+ciberseguridad, lo que me ha proporcionado una comprensión profunda de 
+la importancia de la seguridad digital en nuestras interacciones 
+tecnológicas. Además, tengo un fuerte interés en las tecnologías cloud y
+ cómo pueden mejorar el desarrollo web. Ahora, mi objetivo es aplicar 
+mis conocimientos en seguridad, desarrollo y tecnología cloud para 
+construir aplicaciones web seguras, intuitivas y visualmente 
+impactantes.
+
+Me apasiona el diseño y la creación de interfaces de
+ usuario que no solo sean funcionales, sino también hermosas y fáciles 
+de usar. Estoy constantemente aprendiendo y explorando nuevas 
+tecnologías y tendencias en el ámbito del frontend para mejorar mis 
+habilidades y ofrecer soluciones de vanguardia.
+
+🇺🇸 EN: 
+Passionate about nature, technology, and the universe, I firmly believe 
+in the interconnectedness of all things and the transformative potential
+ of technology for the common good. With experience in fullstack 
+development, I have decided to focus my career on frontend development, 
+where I can combine my creativity with my technical skills to create 
+innovative and engaging web experiences.
+
+I have completed various
+ cybersecurity courses, which have provided me with a deep understanding
+ of the importance of digital security in our technological 
+interactions. Additionally, I have a strong interest in cloud 
+technologies and how they can enhance web development. Now, my goal is 
+to apply my knowledge in security, development, and cloud technology to 
+build secure, intuitive, and visually impactful web applications.
+
+I
+ am passionate about designing and creating user interfaces that are not
+ only functional but also beautiful and easy to use. I am constantly 
+learning and exploring new technologies and trends in the frontend field
+ to enhance my skills and offer cutting-edge solutions.</p>
 
 ###
 
