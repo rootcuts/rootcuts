@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning frontend <br>🎯 Goals: Increase my skills to deliver a unique product <br>🎲 Fun fact: It's a FACT that it's short for my name haha!</p>
+<p align="left">
+  🌱 Growing since 2022<br>
+  ⚛️ I'm currently specializing in React<br>
+  🎯 Goals: Enhance my skills to deliver a unique product<br>
+  😂 Fun fact: It's a FACT that it's short for my name haha!
+</p>
 
 ###
 
