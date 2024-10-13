@@ -1,4 +1,4 @@
-[![3.png](https://i.postimg.cc/WzqH2PYZ/3.png)](https://postimg.cc/y3BPP2H6)
+[![Banner-Linked-In.png](https://i.postimg.cc/yxfGtLgJ/Banner-Linked-In.png)](https://postimg.cc/4H9whb1Z)
 
 ###
 
@@ -7,21 +7,25 @@
 ###
 
 <p align="left">
-  🌱 Growing since 2022<br>
-  ⚛️ I'm currently specializing in React<br>
-  🎯 Goals: Enhance my skills to deliver a unique product<br>
-  😂 Fun fact: It's a FACT that it's short for my name haha!
+🌱 Growing since 2022<br>
+🛡️ Currently specializing in Pentesting and Ethical Hacking<br>
+🎯 Goals: Enhance my skills to deliver secure and robust systems<br>
+😂 Fun fact: It's a FACT that it's short for my name haha!
 </p>
 
 ###
 
-<p align="justify">🇪🇸 ES: Apasionado por la naturaleza, la tecnología y el universo, creo en la interconexión de todas las cosas y el potencial transformador de la tecnología. Con experiencia en desarrollo fullstack, ahora me enfoco en el desarrollo frontend, donde combino creatividad y habilidades técnicas para crear experiencias web atractivas.</p>
+<p align="justify">🇪🇸 ES: Apasionado por la naturaleza, la tecnología y el universo, creo en la interconexión de todas las cosas y el poder transformador de la tecnología. Con experiencia en pentesting y hacking ético, ahora me enfoco en la seguridad informática, donde combino creatividad y habilidades técnicas para descubrir vulnerabilidades y asegurar sistemas de forma efectiva.
 
-<p align="justify">He completado cursos de ciberseguridad que me han dado una comprensión profunda de la seguridad digital y el funcionamiento de Internet y las redes. Interesado en tecnologías cloud, busco aplicar mis conocimientos en seguridad, desarrollo y tecnología cloud para construir aplicaciones web seguras e intuitivas.</p>
+He completado cursos de ciberseguridad que me han dado una comprensión profunda de la seguridad digital, el hacking ético y el funcionamiento de Internet y las redes. Estoy interesado en tecnologías cloud y busco aplicar mis conocimientos en seguridad, hacking y tecnología cloud para construir y proteger aplicaciones web seguras e intuitivas.
 
-<p align="justify">Me apasiona el diseño de interfaces de usuario funcionales y estéticamente agradables. Estoy en constante aprendizaje y exploración de nuevas tecnologías y tendencias en el ámbito frontend para mejorar mis habilidades.</p>
+Me apasiona analizar y asegurar redes y sistemas para garantizar su protección ante amenazas. Estoy en constante aprendizaje y exploración de nuevas técnicas y herramientas en el ámbito del pentesting y la ciberseguridad para seguir mejorando mis habilidades.
 
-<p align="justify">🇺🇸 EN: Passionate about nature, technology, and the universe, I believe in the interconnectedness of all things and the transformative potential of technology. With experience in fullstack development, I now focus on frontend development, combining creativity and technical skills to create engaging web experiences.</p>
+🇺🇸 EN: Passionate about nature, technology, and the universe, I believe in the interconnectedness of all things and the transformative power of technology. With experience in pentesting and ethical hacking, I now focus on cybersecurity, combining creativity and technical skills to identify vulnerabilities and secure systems effectively.
+
+I have completed cybersecurity courses that provided a deep understanding of digital security, ethical hacking, and the workings of the Internet and networks. I am interested in cloud technologies and aim to apply my knowledge in security, hacking, and cloud technology to build and protect secure, intuitive web applications.
+
+I am passionate about analyzing and securing networks and systems to ensure their protection against threats. I am constantly learning and exploring new techniques and tools in the field of pentesting and cybersecurity to further improve my skills.</p>
 
 <p align="justify">I have completed cybersecurity courses that provided a deep understanding of digital security and the workings of the Internet and networks. Interested in cloud technologies, I aim to apply my knowledge in security, development, and cloud technology to build secure, intuitive web applications.</p>
 
@@ -34,52 +38,24 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-</div>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
-</div>
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
+
+
+
+
 
 ###
 
